@@ -16,6 +16,10 @@ Most of the examples are [Lumerical simulation case](https://optics.ansys.com/hc
 - Theory
   - [EME solver - Simulation object](https://optics.ansys.com/hc/en-us/articles/360034917013-EME-solver-Simulation-object)
   - [Using and understanding Mode Expansion Monitors](https://optics.ansys.com/hc/en-us/articles/360034902433-Using-and-understanding-Mode-Expansion-Monitors)
+  - [Convergence testing process for EME simulations](https://optics.ansys.com/hc/en-us/articles/360037172994-Convergence-testing-process-for-EME-simulations)
+  - [EME Solver analysis window overview](https://optics.ansys.com/hc/en-us/articles/360034917513-EME-Solver-analysis-window-overview)
+  - [Script command for performing mode convergence sweep](https://optics.ansys.com/hc/en-us/articles/360034405114-emesweep-Script-command)
+  - [Parameter sweep utility](https://optics.ansys.com/hc/en-us/articles/360034922873-Parameter-sweep-utility)
 - MMI
   - [Multi-Mode Interference (MMI) Coupler](https://optics.ansys.com/hc/en-us/articles/360042305194-Multi-Mode-Interference-MMI-Coupler)
 - Edge coupler
@@ -29,3 +33,6 @@ Most of the examples are [Lumerical simulation case](https://optics.ansys.com/hc
 - Polarization converter
   - [Polarization converter using a tapered waveguide](https://optics.ansys.com/hc/en-us/articles/360042304554-Polarization-converter-using-a-tapered-waveguide)
   - [Polarization rotator](https://optics.ansys.com/hc/en-us/articles/360042799593-Polarization-rotator)
+  - Script commands
+<img width="1665" height="1111" alt="image" src="https://github.com/user-attachments/assets/c298f7a1-510a-4579-abbd-5edc317a8a93" />
+
