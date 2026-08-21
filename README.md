@@ -12,6 +12,10 @@ Most of the examples are [Lumerical simulation case](https://optics.ansys.com/hc
   - [Edge coupler from *Silicon Photonics Design*](https://github.com/lukasc-ubc/SiliconPhotonicsDesign/blob/master/siliconphotonicsdesign_book_scripts/ch5/edgecoupler_mode.lsf)
   - [2D Edge-Coupler Simulations](https://github.com/gcharalampous/lumerical-py-scripts/tree/main/MODE/edge_coupler)
 ## EME Method
+- [Official training course](https://innovationspace.ansys.com/courses/learning-track/ansys-lumerical-eme)
+- Theory
+  - [EME solver - Simulation object](https://optics.ansys.com/hc/en-us/articles/360034917013-EME-solver-Simulation-object)
+  - [Using and understanding Mode Expansion Monitors](https://optics.ansys.com/hc/en-us/articles/360034902433-Using-and-understanding-Mode-Expansion-Monitors)
 - MMI
   - [Multi-Mode Interference (MMI) Coupler](https://optics.ansys.com/hc/en-us/articles/360042305194-Multi-Mode-Interference-MMI-Coupler)
 - Edge coupler
