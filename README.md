@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for integrated photonic circuit (**PIC**) engineers, researchers and enthusiasts.
 
-Most of the examples are [Lumerical simulation case](https://optics.ansys.com/hc/en-us).
+Most of the examples are from [Lumerical simulation cases](https://optics.ansys.com/hc/en-us).
 
 ## Optical I/O ports
 - Edge coupler
@@ -36,3 +36,15 @@ Most of the examples are [Lumerical simulation case](https://optics.ansys.com/hc
   - Script commands
 <img width="1665" height="1111" alt="image" src="https://github.com/user-attachments/assets/c298f7a1-510a-4579-abbd-5edc317a8a93" />
 
+## Thermo‑optic devices
+- [Official training course](https://innovationspace.ansys.com/courses/learning-track/ansys-lumerical-heat)
+- Devices
+  - [Thermal switch](https://optics.ansys.com/hc/en-us/articles/360042323154-Thermal-switch)
+  - [Thermal phase shifter workflow](https://optics.ansys.com/hc/en-us/articles/6035842168723-Thermal-phase-shifter-workflow)
+  - [Thermally tuned waveguide](https://optics.ansys.com/hc/en-us/articles/360042833673-Thermally-tuned-waveguide-FDE)
+  - [Thermal Switch (statistical) - Lumfoundry Template](https://optics.ansys.com/hc/en-us/articles/4417625068307-Thermal-Switch-statistical-Lumfoundry-Template)
+
+## Electro‑optic devices
+- [Official training course](https://innovationspace.ansys.com/courses/learning-track/ansys-lumerical-charge)
+- Devices
+  - [Thin Film Lithium Niobate Electro-Optic Phase Modulator](https://optics.ansys.com/hc/en-us/articles/19435937674387-Thin-Film-Lithium-Niobate-Electro-Optic-Phase-Modulator)
